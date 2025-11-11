@@ -62,9 +62,6 @@ Create a `.env` file in the root of the project and add the necessary configurat
 ```
 # Port the server will run on
 PORT=8080
-
-# Add any other required API keys or configuration here
-# EXAMPLE_API_KEY=your_secret_key
 ```
 
 ### Running the Server
